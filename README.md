@@ -16,6 +16,9 @@ This project demonstrates a data pipeline for extracting, transforming, and visu
    - Load transformed data into Azure Synapse Analytics for querying.
    - Connect Synapse to Power BI, Looker Studio, or Tableau for dashboard creation.
 
+![Pipeline Diagram](https://raw.githubusercontent.com/Punam918/Olympic_Analysis/refs/heads/master/OlympicPipeline.jpg)
+
+
 ## Technologies Used
 
 - **Azure Data Factory**
